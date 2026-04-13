@@ -20,7 +20,7 @@ else:
     print("Error")
 
 
-git clone https://github.com/Rokokaitos867/Specialist-Audit-Tool
+g
 
-python specialist_crack.py" > README.md
+
 
